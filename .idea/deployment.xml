@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="cd" deleteMissingItems="true" showDifferentInSync="false" showNewOnSourceInSync="false" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="210.13.50.98">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fengmao/wyc/code/segmentation" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cd">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lvfengmao/yichen/code/segmentation" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="duan">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fengmao/wyc/code/segmentation" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
