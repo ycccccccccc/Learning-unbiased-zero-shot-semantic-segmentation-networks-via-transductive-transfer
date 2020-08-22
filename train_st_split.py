@@ -43,8 +43,8 @@ weak_size = BATCH_SIZE
 weak_proportion = 0.2
 
 DATA_PATH = "data/voc2012/"
-PRETRAINED_OUR_PATH = "model/segmentation/snapshots/vgg/98_voc_qfsl_lambda_split_single_1_22"
-SNAPSHOT_PATH = "model/segmentation/snapshots/vgg/98_voc_qfsl_st_split_1_5"
+PRETRAINED_OUR_PATH = "model/segmentation/snapshots/vgg/lambda_split_single_1"
+SNAPSHOT_PATH = "model/segmentation/snapshots/vgg/qfsl_st_split_1"
 PATH = "output/"
 
 DATAROOT = PATH + DATA_PATH

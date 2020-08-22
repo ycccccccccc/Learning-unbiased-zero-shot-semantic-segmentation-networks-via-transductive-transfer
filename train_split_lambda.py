@@ -43,7 +43,7 @@ weak_proportion = 0.2
 
 DATA_PATH = "data/voc2012/"
 PRETRAINED_OUR_PATH = "model/segmentation/pretrained/our_qfsl_confidence"
-SNAPSHOT_PATH = "model/segmentation/snapshots/vgg/98_voc_qfsl_lambda_split_single_1_32"
+SNAPSHOT_PATH = "model/segmentation/snapshots/vgg/lambda_split_single_1"
 PATH = "output/"
 
 
